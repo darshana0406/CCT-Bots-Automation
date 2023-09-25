@@ -9,6 +9,7 @@
     ],
     "languagePreferences": {
         "type": "perVolley"
+        
     },
     "localeData": {
         "en": {
@@ -17,7 +18,7 @@
                 "pollError": []
             },
             "isSmalltalkMigrated": true,
-            "description": "Use this option when none of the predefined purposes match your bot’s purpose.",
+             "description": "Use this an option when none of the predefined purposes match your bot’s purpose.",
             "nlMeta": {
                 "mlUtterances": 115,
                 "patterns": 0,
